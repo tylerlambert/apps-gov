@@ -1,6 +1,6 @@
 {
     "slug": "onwire",
-    "name": "OnWire Cloud",
+    "name": "OnCloud - Identity and Access Management Platform",
     "url": "onwireco.com",
     "logo_url": null,
     "top_keywords": [
@@ -8,15 +8,27 @@
         "inc 5000 2014 security",
         "cybersecurity 500",
         "ibm security product integration",
-        "custom software and technical consulting"
+        "custom software and technical consulting",
+        "Identity and Access Management",
+        "IAM",
+        "IAM Cloud", 
+        "IAM solution",
+        "IAM OnWire",
+        "OnCloud Identity and Access",
+        "IAM platform",
+        "IBM Security",
+        "OnCloud IAM Platform"
+        "OnWire",
+        "OnCloud"
     ],
-    "short_description": "OnCloud is an identity and access management (IAM) Software as a Service (SaaS) available to Federal Government customers and designed to be hosted in a virtualized, cloud-computing environment.",
-    "long_description": "OnCloud is an identity and access management (IAM) Software as a Service (SaaS) available to Federal Government customers and designed to be hosted in a virtualized, cloud-computing environment. OnCloud user management capabilities include policy-based provisioning, workflow, reporting, auditing, recertification, and self-service.  OnCloud authentication and authorization services include single-sign-on, federation, and strong authentication.<br/><br/>OnCloud can be offered as an Identity Provider (IDP), Service Provider (SP), Broker, or Proxy on behalf of customers.<br/><br/>OnCloud is infrastructure agnostic and can be deployed in a customer’s infrastructure of choice.",
+    "short_description": "OnCloud is a comprehensive Identity and Access Management (IAM) Platform. OnCloud utilizes IBM’s market-leading technology to provide a full and adaptable set of IAM capabilities, including Identity Governance, Strong Authentication, Access Control, Single Sign-On, and Federation.",
+    "long_description": "OnCloud is a comprehensive Identity and Access Management (IAM) Platform. OnCloud utilizes IBM’s market-leading technology to provide a full and adaptable set of IAM capabilities, including Identity Governance, Strong Authentication, Access Control, Single Sign-On, and Federation. OnCloud, the first IAM Platform approved as FedRAMP Ready, is infrastructure agnostic and can be deployed on the customer’s infrastructure of choice.",
     "sales_poc":"tyler.lambert@onwireco.com",
     "twitter_handle": "onwireco",
     "linkedin_id": 2093733,
     "contracts":[
         "sewp"
+        "GSA Schedule 70"
     ],
     "fedramp_ready":"https://www.fedramp.gov/marketplace/fedramp-ready-systems/onwire-oncloud/",
 }
